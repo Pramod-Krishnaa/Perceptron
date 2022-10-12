@@ -1,2 +1,2 @@
-# Perceptron(Single Layer) in Machine Learning 
+# Perceptron in Machine Learning 
 AND Gate
